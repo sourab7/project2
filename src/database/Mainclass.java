@@ -36,7 +36,7 @@ public static void insert() throws Exception{
 		System.out.println("insert completed");
 	}
 }
-
+//bawal an ta
 public static Connection getConnection() throws Exception{
 	try {
 		String driver ="com.mysql.jdbc.Driver";
